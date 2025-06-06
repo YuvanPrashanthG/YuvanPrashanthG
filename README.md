@@ -64,15 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvanPrashanth&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvanPrashanth&theme=tokyonight" width="45%" />
-</p>
-
----
-
 ### 🧠 Fun Fact
 
 > “I don’t just build apps. I build experiences.”
