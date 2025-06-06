@@ -1,72 +1,79 @@
 <h1 align="center">Hi 👋, I'm G Yuvan Prashanth</h1>
-<h3 align="center">A passionate software developer and tech enthusiast</h3>
+<h3 align="center">A passionate Software Developer | Flutter & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=30" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuvanPrashanthG&label=Profile+Views&color=blueviolet&style=flat" alt="YuvanPrashanthG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;AI+Student;ML+Engineer+in+the+Making;Always+Learning+Something+New&center=true&width=500&height=30" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[Smart Retail ERP using Flutter + Supabase](#)**  
-- 🌱 I’m learning **Advanced Data Structures, Operating Systems, and Aptitude**  
-- 💬 Ask me about **Flutter, Firebase, Java, Python, and Machine Learning**  
-- 👯 Looking to collaborate on **Open Source Flutter Projects**  
-- 🧠 Interests: **AI in Healthcare**, **ERP Systems**, **App Development**  
-- 📫 Reach me at: **yuvanprashanthg@gmail.com**  
-- ⚡ Fun fact: I can turn ☕ into 💻
+### 💫 About Me
+
+🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science** at  
+**Sri Manakula Vinayagar Engineering College**, Puducherry (2022–2026)  
+📍 CGPA: **8.13**
+
+💡 I love building **AI-powered applications** and **mobile apps using Flutter**.  
+🔍 Exploring **Machine Learning**, **Prompt Engineering**, and **Full Stack Development**.
 
 ---
 
 ### 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- 💻 Languages: `Java`, `Python`, `Dart`, `SQL`
+- 📱 Frameworks: `Flutter`
+- ☁️ Backend: `Firebase`
+- 🧠 AI & ML: `Prompt Engineering`, `LLMs`, `Scikit-learn`, `Pandas`
+- 🛠️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+- 🌐 Platforms: `Android`, `API Deployment`
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YuvanPrashanthG&theme=gruvbox&no-frame=true&column=7" />
-</p>
+### 🚀 Projects
+
+#### 🔬 Scorp – Drug Interaction & Side Effects Predictor  
+`Flutter` | `LLaMA LLM` | `Prompt Engineering`  
+> A smart medical assistant that predicts drug interactions and side effects using LLaMA model.  
+> ✅ API integration for real-time predictions  
+> ✅ Replaced datasets with dynamic prompt-based responses  
+
+#### 💬 Chat App – Real-time Messaging  
+`Flutter` | `Firebase Auth` | `Firestore`  
+> Built a fully-functional chat app with real-time messaging and secure authentication  
+> ✅ Email/password sign-in  
+> ✅ Responsive design for seamless user experience
+
+---
+
+### 🏆 Achievements
+
+- 🌍 **Top 250 Global Rank** – Amazon ML Challenge 2024  
+- 🛡️ **Finalist** – Care Hackathon 2025  
+- 📜 **Certifications**:  
+  - Data Science & Machine Learning (Udemy)  
+  - Complete SQL Bootcamp  
+  - Flutter & Dart – Build Apps for Android & iOS
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [yuvanprashanthg@gmail.com](mailto:yuvanprashanthg@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yuvan-prashanth](https://www.linkedin.com/in/yuvan-prashanth-682104264)  
+- 📍 Location: Bahour, Puducherry, India  
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvanPrashanthG&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvanPrashanthG&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvanPrashanth&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvanPrashanth&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YuvanPrashanthG&theme=github-dark" />
-</p>
+### 🧠 Fun Fact
 
----
+> “I don’t just build apps. I build experiences.”
 
-### 🚀 Featured Projects
-- 💼 **Smart Retail ERP** – ERP app using Flutter, Supabase, Riverpod  
-- 🧠 **Medical LLM Chatbot** – AI-powered disease and drug prediction assistant  
-- 🔐 **Flutter Auth System** – Login, Register, and Logout using Firebase
-
----
-
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-prashanth-682104264)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/YuvanPrashanthG)
-
----
-
-<!--
-**YuvanPrashanthG/YuvanPrashanthG** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
