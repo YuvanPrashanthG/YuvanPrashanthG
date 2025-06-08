@@ -42,6 +42,19 @@
 > Built a fully-functional chat app with real-time messaging and secure authentication  
 > ✅ Email/password sign-in  
 > ✅ Responsive design for seamless user experience
+# 🛍️ Smart Retail ERP – Inventory & Billing System
+
+**Technologies:** Flutter | Supabase | Riverpod
+
+---
+
+A full-featured ERP system designed to manage products, inventory, billing, and analytics seamlessly.
+
+### Features
+- ✅ Real-time product updates and stock tracking  
+- ✅ Interactive dashboard with live sales and billing metrics  
+
+---
 
 ---
 
