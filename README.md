@@ -42,7 +42,6 @@
 > Built a fully-functional chat app with real-time messaging and secure authentication  
 > ✅ Email/password sign-in  
 > ✅ Responsive design for seamless user experience
-# 🛍️ Smart Retail ERP – Inventory & Billing System
 
 #### 🛍️ Smart Retail ERP – Inventory & Billing System 
 `Flutter` | `Supabase` | `Riverpod`  
