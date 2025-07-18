@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm G Yuvan Prashanth</h1>
-<h3 align="center">Software Developer | Flutter & Machine Learning Enthusiast</h3>
+<h3 align="center">Software Developer | Data Engineer | Flutter & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;AI+Student;ML+Engineer+in+the+Making;Always+Learning+Something+New&center=true&width=500&height=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Data+Engineer;AI+Student;ML+Engineer+in+the+Making;Always+Learning+Something+New&center=true&width=500&height=30" alt="Typing SVG" />
 </p>
 
 ---
