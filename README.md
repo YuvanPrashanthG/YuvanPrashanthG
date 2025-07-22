@@ -24,12 +24,12 @@ I focus on turning complex ideas into simple, working solutions using modern too
 - **Platforms**: Android, FastAPIs, API Deployment  
 
 ---
-## Connect with Me
+## Projects
 
 - Postger-Sql-Datawarehouse: [link](https://github.com/YuvanPrashanthG/Postger-Sql-Datawarehouse)  
-- LinkedIn: [linkedin.com/in/yuvan-prashanth](https://www.linkedin.com/in/yuvan-prashanth-682104264)  
-- Location: Bahour, Puducherry, India
-  
+- smart_retail_erp: [link](https://github.com/YuvanPrashanthG/smart_retail_erp)
+- Scorp - Medical Assistant: [link](https://github.com/YuvanPrashanthG/Scorp)
+- FalseApp - Chat App: [link](https://github.com/YuvanPrashanthG/chat-app-v1)
 ---
 
 ## Achievements
