@@ -24,15 +24,12 @@ I focus on turning complex ideas into simple, working solutions using modern too
 - **Platforms**: Android, FastAPIs, API Deployment  
 
 ---
+## Connect with Me
 
-## Projects
-
-## Scorp – Drug Interaction & Side Effects Predictor   
-
-## Chat App – Real-time Messaging   
-
-## Smart Retail ERP – Inventory & Billing System 
-  -[visit]([https://www.linkedin.com/in/yuvan-prashanth-682104264](https://github.com/YuvanPrashanthG/Postger-Sql-Datawarehouse.git))  
+- Postger-Sql-Datawarehouse: [link](mailto:yuvanprashanthg@gmail.com)  
+- LinkedIn: [linkedin.com/in/yuvan-prashanth](https://www.linkedin.com/in/yuvan-prashanth-682104264)  
+- Location: Bahour, Puducherry, India
+  
 ---
 
 ## Achievements
