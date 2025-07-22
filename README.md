@@ -18,34 +18,21 @@ I focus on turning complex ideas into simple, working solutions using modern too
 ## Tech Stack
 
 - **Languages**: Java, Python, Dart, SQL  
-- **Frameworks**: Flutter  
-- **Backend & Cloud**: Firebase, Supabase  
-- **AI & ML**: Prompt Engineering, LLMs, Scikit-learn, Pandas  
+- **Frameworks**: Flutter, TensorFlow, Scikit-learn, Pandas, NumPy, FastAPI, Apache Spark,  Apache Airflow  
+- **Backend & Cloud**: Firebase, Supabase, PostgerSQL
 - **Tools**: Git, GitHub, VS Code, Postman  
-- **Platforms**: Android, REST APIs, API Deployment  
+- **Platforms**: Android, FastAPIs, API Deployment  
 
 ---
 
 ## Projects
 
-### Scorp – Drug Interaction & Side Effects Predictor  
-**Tech**: Flutter, LLaMA LLM, Prompt Engineering  
-A smart medical assistant that predicts drug interactions and side effects using a fine-tuned LLaMA model.  
-- API integration for real-time predictions  
-- Prompt-based dynamic response system replacing static datasets  
+## Scorp – Drug Interaction & Side Effects Predictor   
 
-### Chat App – Real-time Messaging  
-**Tech**: Flutter, Firebase Auth, Firestore  
-A real-time messaging app with clean UI and robust authentication.  
-- Secure email/password authentication  
-- Fully responsive design for all screen sizes  
+## Chat App – Real-time Messaging   
 
-### Smart Retail ERP – Inventory & Billing System  
-**Tech**: Flutter, Supabase, Riverpod  
-A comprehensive ERP system for retail businesses to manage inventory and billing.  
-- Real-time product updates and stock management  
-- Live dashboard with billing and analytics metrics  
-
+## Smart Retail ERP – Inventory & Billing System 
+  -[visit]([https://www.linkedin.com/in/yuvan-prashanth-682104264](https://github.com/YuvanPrashanthG/Postger-Sql-Datawarehouse.git))  
 ---
 
 ## Achievements
