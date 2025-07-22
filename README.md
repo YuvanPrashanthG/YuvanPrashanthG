@@ -30,16 +30,6 @@ I focus on turning complex ideas into simple, working solutions using modern too
 - smart_retail_erp: [link](https://github.com/YuvanPrashanthG/smart_retail_erp)
 - Scorp - Medical Assistant: [link](https://github.com/YuvanPrashanthG/Scorp)
 - FalseApp - Chat App: [link](https://github.com/YuvanPrashanthG/chat-app-v1)
----
-
-## Achievements
-
-- Top 250 Global Rank – Amazon ML Challenge 2024  
-- Finalist – Care Hackathon 2025  
-- Certifications:  
-  - Data Science & Machine Learning (Udemy)  
-  - Complete SQL Bootcamp  
-  - Flutter & Dart – Build Apps for Android & iOS  
 
 ---
 
