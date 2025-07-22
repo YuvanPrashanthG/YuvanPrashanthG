@@ -26,7 +26,7 @@ I focus on turning complex ideas into simple, working solutions using modern too
 ---
 ## Connect with Me
 
-- Postger-Sql-Datawarehouse: [link](mailto:yuvanprashanthg@gmail.com)  
+- Postger-Sql-Datawarehouse: [link](https://github.com/YuvanPrashanthG/Postger-Sql-Datawarehouse)  
 - LinkedIn: [linkedin.com/in/yuvan-prashanth](https://www.linkedin.com/in/yuvan-prashanth-682104264)  
 - Location: Bahour, Puducherry, India
   
